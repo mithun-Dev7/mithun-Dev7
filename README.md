@@ -7,12 +7,14 @@ A passionate Full Stack Developer from India. I love building web applications a
 ## 🔭 Currently Working On
 - **MERN Stack Projects**
 - **Web Development**
+- **Shopify Development**
 
 ## 🌱 Currently Learning
 - Advanced React.js
 - Node.js
 - MongoDB
 - Express.js
+- Shopify Theme and App Development
 
 ## 👨‍💻 My Projects
 Check out all my projects on GitHub: [mithun-Dev7](https://github.com/mithun-Dev7)
@@ -22,6 +24,7 @@ Check out all my projects on GitHub: [mithun-Dev7](https://github.com/mithun-Dev
 - JavaScript
 - React.js
 - Web Development
+- Shopify Development
 
 ## 📫 How to Reach Me
 - 📧 Email: wadekarmithun@gmail.com
@@ -45,6 +48,7 @@ Code is like humor. When you have to explain it, it's bad! 😄
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
